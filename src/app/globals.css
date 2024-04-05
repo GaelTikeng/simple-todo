@@ -1,0 +1,12 @@
+.input-field {
+  padding: 10px 4px;
+  width: 85%;
+}
+
+h1 {
+  text-align: center;
+}
+
+.icon:hover {
+  cursor: pointer;
+}
